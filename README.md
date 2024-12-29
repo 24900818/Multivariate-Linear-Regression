@@ -48,9 +48,9 @@ Name : Nevathitha               Register name:24900818
 ```
 ## Output:
 
- coefficients: [0.00755095 0.00780526]
- Intercept: 79.69471929115939
- Predicted co2 for the coressponding weight and volume [111.71387014]
+     coefficients: [0.00755095 0.00780526]
+     Intercept: 79.69471929115939
+     Predicted co2 for the coressponding weight and volume [111.71387014]
 
 ### Insert your output
 
